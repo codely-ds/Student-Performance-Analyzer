@@ -1,0 +1,13 @@
+
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Generated machine-learning artifacts
+models/*.joblib
+models/*.json
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
